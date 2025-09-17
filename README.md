@@ -25,6 +25,7 @@ Problem Statement:**
       2.	import pandas_module as pm
       3.	Read a CSV file into a DataFrame by calling the readfile function.
       4.	Perform operations like accessing rows, columns, modifying values, or saving back to a file.
+
 **Example usage in words:**
   •	Import pandas_module.
   •	Call the function to read your CSV file, which returns a DataFrame object.
@@ -32,14 +33,17 @@ Problem Statement:**
   •	Modify or add columns when needed.
   •	Save the changes back to a new CSV file.
   •	Run aggregation functions (sum, max, min) on any numeric column.
-Why This Project is Useful
+
+**Why This Project is Useful**
   •	Helps beginners understand how pandas works internally.
   •	Teaches object-oriented programming by building classes (DataFrame, Series).
   •	Strengthens knowledge of CSV file handling in Python.
   •	Shows how to add exception handling for safer code execution.
-Limitations
+
+**Limitations**
   •	Works only with CSV files.
   •	Supports only basic row/column/cell operations.
   •	Aggregations are limited to sum, max, and min.
   •	It’s a learning project, not a full replacement for pandas.
+
 The files attached in this git will have the code which helps in getting the things as explained in this documentation. (Files: pandas_module.py, usage.py)
